@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-widgets-react-inertia",
+  "capabilityKey": "liberusoftware/module-cms-widgets",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-cms-widgets-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/cms/nextjs/cms-widgets.md",
+  "presentationPlan": "projects/cms/react/cms-widgets.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
